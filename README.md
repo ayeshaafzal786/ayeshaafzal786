@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ayesha Afzal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.1.386769707.1685700699&semt=ais">
-
+<img align="center" alt="coding" width="500" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.1.386769707.1685700699&semt=ais">
+<break>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaafzal786&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaafzal786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaafzal786" alt="ayeshaafzal786" /></a> </p>
